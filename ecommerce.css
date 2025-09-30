@@ -1,0 +1,52 @@
+*{
+    /* border: 1px solid black; */
+    font-family: sans-serif;
+}
+.navbar{
+    background-color: rgb(5, 152, 157);
+}
+.navbar-brand{
+    width: 10%;
+}
+.nav-item .nav-link{
+    color: aliceblue;
+    font-weight: bold;
+}
+.fa-bars{
+    color: white;
+}
+
+#Home{
+    background-image: url('org.jpg');
+    width: 98vw;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+.hcontent{
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 3px 4px black
+}
+/* about */
+.heading{
+    color: green;
+    font-weight: bold;
+    font-size: 50px;
+}
+.acontent {
+    background-color: rgb(88, 16, 40);
+    padding: 20px;
+}
+.acontent h3{
+    color: white;
+    font-weight: bold;
+}
+.acontent p {
+    color:white;
+    font-weight: bold;
+    line-height: 30px;
+}
+.d-block{
+    aspect-ratio: 2/1;
+}
