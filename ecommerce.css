@@ -50,3 +50,39 @@
 .d-block{
     aspect-ratio: 2/1;
 }
+
+/* product */
+.ccontent h4 {
+    color: #f06795;
+}
+
+.input-group .input-group-text {
+    background-color: #f06795;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 50px 30px;
+}
+
+#footer {
+    background-color: palevioletred;
+}
+
+.fcontent h4,p {
+    color: white;
+}
+
+.icons .fa-brands {
+    font-size: 25px;
+    color: beige;
+    margin-right: 1%;
+}
+
+.icons .fa-brands:hover {
+    color: rgb(180, 244, 115);
+}
+
+#Home .hcontent {
+    margin-top: 100px;
+}
+
